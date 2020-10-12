@@ -1,2 +1,3 @@
 # kottans-frontend
-Описания пока нет, как придумаю - напишу
+-p Hello
+-p it's me
