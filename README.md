@@ -1,5 +1,5 @@
 # kottans-frontend
-В этом репозитории я буду описывать свою проведенную работу, а также составлять отчеты
+In this repository i will be write work with i had deal and would be do repots about lessons
 ## Конспект
 0. [Git Basics](#git)
 ## Git Basics
