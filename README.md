@@ -1,35 +1,5 @@
 # kottans-frontend
-## [fsdafsdafsadfas](https://github.com/smillims/kottans-frontend/#fsdafsdafsadfas)
-fsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;lj
-fsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;ljfsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;ljfsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;ljfsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;ljfsdkjafsl;adjflkjsadfljsdlfjlsd;jflsd;f]
-fskadljfls;adjfl;sdafjsdklafjsdl;akfj
-fskladjfl;sdajfl;jsdafljsdl;afj
-sdfjkljsadfsdfjlsdflsdjfljsdfljsd
-fsdkljfl;sdjfljsdfljdslfjsdl;fjl;sadfj
-jdskljfl;sdkjflsdkjflsjdfjlsadf;lj
-
+В этом репозитории я буду описывать свою проведенную работу, а также составлять отчеты
+## Конспект
+0. [Git Basics](#git)
+## Git Basics
