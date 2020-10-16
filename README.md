@@ -25,7 +25,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
-2. Ко вниманию хочу предоставить команду которой вы можете воспользоваться для упорядоченного/неупорядоченного списка. Выше вы уже могли видеть пример неупорядоченного списка. А вот ниже уже будут предоставлены команды для сотворения списка:
+2. To your attantion I want to present command with which you're be able to use ordered/unordered lists. Above you can see example unordered lists. But from below will already be presented commands for created list:
 
 ```
 - Kottans
@@ -46,5 +46,4 @@ In this repository I will write about the work with which I dealt and I will wri
 2. is a distributed
 3. version-control system
 
----
 ---
