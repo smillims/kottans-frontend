@@ -2,6 +2,8 @@
 In this repository I will write about the work with which I dealt and I will write reports on the lessons I have learned, so have fun (smile)
 ## Notes
 
+![img](img-readme/)
+
 - [ ] *0. [Markdown](#)*
 - [ ] *1. [Git Basics](#)*
    - [ ] *1.1 [Version Control with Git](#)*
