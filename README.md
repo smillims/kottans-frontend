@@ -63,7 +63,8 @@ In this repository I will write about the work with which I dealt and I will wri
    - The table shows the markup and program languages which I use/not use
 
 ---
+---
 
 ***IN CONCLUSION***: Yeah, generally markdown it's basic, but in all that's information was new for me. I spent some of my time on learning, because of that I should to write about it here. On the whole, finishing. In notes I described just a little part of all, that I had to find out, not to mention stylized text (by the way, which I'm using), about code blocks (which I use too ! ), emogi, [design elements](https://shields.io/) and few different items.
 
----
+## Git Basics
