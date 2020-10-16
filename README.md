@@ -64,6 +64,6 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
-***IN CONCLUSION***: Да, markdown это не самая трудоемкая тема, но все-таки эта была новая информацию для меня на которую я потратил некоторое время для изучения, поэтому должен был тут написать. В общем, **заключение**. В заметках я описал лишь малую часть того, что мне приследовало узнать, не говорю уже о стилизации текста (которую я использую, кстати говоря), о блоках кода (которым я тоже пользуюсь ! ), эмодзи, [елементы оформления](https://shields.io/) и еще несколько разных вещей.
+***IN CONCLUSION***: Yeah, generally markdown it's basic, but in all that's information was new for me. I spent some of my time on learning, because of that I should to write about it here. On the whole, finishing. In notes I described just a little part of all, that I had to find out, not to mention stylized text (by the way, which I'm using), about code blocks (which I use too ! ), emogi, [design elements](https://shields.io/) and few different items.
 
 ---
