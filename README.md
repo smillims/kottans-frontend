@@ -1,8 +1,5 @@
 # kottans-frontend
 In this repository I will write about the work with which I dealt and I will write reports on the lessons I have learned, so have fun (smile)
-
-![img](img-readme/1_J8O2xd9ZqxWr2x6EP4MHmg.png)
-
 ## Notes
 
 - [ ] *0. [Markdown](#)*
@@ -74,3 +71,20 @@ In this repository I will write about the work with which I dealt and I will wri
 ---
 
 ## Git Basics
+### Version Control with Git
+
+----
+
+> Git is a free and open source distributed version control system designed 
+>> to handle everything from small to very large projects 
+>>> with speed and efficiency.
+
+----
+
+Ладно-ладно, эти слова взятые прямо с [официального](https://git-scm.com/) сайта по Git.
+
+
+
+
+
+
