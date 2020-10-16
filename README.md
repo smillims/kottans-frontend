@@ -48,7 +48,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
-3. Okay, let's move. Дальше меня удивил способ создание **таблицы**. Не сама таблица, нет-нет :grin:, а именно ***создание*** таблицы, сейчас покажу:
+3. Okay, let's move. Further I was shoked by creating **table**. Not the table itself, no no :grin:, specifically ***table creation***, I'll show you now:
 
    ```
    | HTML | CSS | JavaScript | Python |
@@ -60,7 +60,7 @@ In this repository I will write about the work with which I dealt and I will wri
    | --- | --- | --- | --- |
    | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
 
-   - В таблице указана разметка и языки программирования которые я использую/не использую
+   - The table shows the markup and program languages which I use/not use
 
 ---
 
