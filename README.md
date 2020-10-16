@@ -50,17 +50,17 @@ In this repository I will write about the work with which I dealt and I will wri
 
 3. Okay, let's move. Дальше меня удивил способ создание **таблицы**. Не сама таблица, нет-нет :grin:, а именно ***создание*** таблицы, сейчас покажу:
 
-   - В таблице указана разметка и языки программирования которые я использую/не использую
-   
-```
-| HTML | CSS | JavaScript | Python |
-| --- | --- | --- | --- |
-| :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
-```
+   ```
+   | HTML | CSS | JavaScript | Python |
+   | --- | --- | --- | --- |
+   | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+   ```
 
-| HTML | CSS | JavaScript | Python |
-| --- | --- | --- | --- |
-| :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+   | HTML | CSS | JavaScript | Python |
+   | --- | --- | --- | --- |
+   | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+
+   - В таблице указана разметка и языки программирования которые я использую/не использую
 
 ---
 
