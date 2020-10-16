@@ -14,7 +14,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 1. From the very beginning, everything was difficult and unusual, but after sitting and studying the information for two days I can say, that this is not such a difficult topic for me. Now I'm going to show you (and remind myself) some commands, each of which fulfills different functions.
 
-- For examle you can stylized your own header:
+- For examle you can stylized your own **header**:
    
    | Symbol | Heading text |
    | :--- | :---: |
@@ -25,7 +25,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
-2. To your attantion I want to present command with which you're be able to use ordered/unordered lists. Above you can see example unordered lists. But from below will already be presented commands for created list:
+2. To your attantion I want to present command with which you're be able to use ordered/unordered **lists**. Above you can see example unordered lists. But from below will already be presented commands for created list:
 
 ```
 - Kottans
@@ -45,5 +45,21 @@ In this repository I will write about the work with which I dealt and I will wri
 1. Git
 2. is a distributed
 3. version-control system
+
+---
+
+3. Okay, let's move. Дальше меня удивил способ создание **таблицы**. Не сама таблица, нет-нет :grin:, а именно ***создание*** таблицы, сейчас покажу:
+
+   - В таблице указана разметка и языки программирования которые я использую/не использую
+   
+```
+| HTML | CSS | JavaScript | Python |
+| --- | --- | --- | --- |
+| :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
+```
+
+| HTML | CSS | JavaScript | Python |
+| --- | --- | --- | --- |
+| :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
 
 ---
