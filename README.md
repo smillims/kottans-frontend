@@ -123,11 +123,13 @@ Let's break everything down:
    | Command | What is it mean? |
    | --- | --- |
    | `git log` | Displays information about the existing commits |
-   | ~~Показываю как выглядит терминал при вписании команды~~| ![img](img-readme/Screenshot_44.png) |
+   | ~~Showing how the terminal looks like~~ | ![img](img-readme/Screenshot_44.png) |
    | `git show` | Dislays information about just that one commit |
    | Typically, a SHA is provided as a final argumen | ![img](img-readme/Screenshot_45.png) |
 
- - Когда мы испольльзуем команду `git log`, то консоль выводит нам всю имеющуюся информацию: про SHA, про автора, дату когда было внесено последнее изменение и сам commit. А        вдруг мы хотим увидеть только SHA and commit, вдруг нам надо воспроизвести все в одну линию? Для этого мы можем использовать ***flag***. Flag ипользуют для изменения функции    или видоотбражения, с помощью которой вписывают определенную команду к уже существующей команде.
+ - Когда мы испольльзуем команду `git log`, то консоль выводит нам всю имеющуюся информацию: про SHA, про автора, дату когда было внесено последнее изменение и сам commit. А        вдруг мы хотим увидеть только SHA and commit, вдруг нам надо воспроизвести всеgo в одну линию? Для этого мы можем использовать ***flag***. Flag ипользуют для изменения          функции или видоотбражения, с помощью которой вписывают определенную команду к уже существующей команде.
+ 
+ - When do we use the command `git log`, terminal outputs to us all available information: abous SHA, about author, date when was made last change and commit. What if we only      want to see SHA and commit, what if we need to show just the only line? For this we can use ***flag***. Flag use for chenging functions or showing, with the help of which it    inscibes a certain command to an already existing command.
 
    - К примеру, `git log --oneline` displayed just the short SHA and the commit message in one line.
    - The `git log` command has a flag that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted.     The flag is `--stat`.
