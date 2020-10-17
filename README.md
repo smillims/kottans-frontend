@@ -73,6 +73,10 @@ In this repository I will write about the work with which I dealt and I will wri
 ## Git Basics
 ### Version Control with Git
 
+> **WD** - Working Directory
+>
+> **SI** - Staging Index
+
 ----
 
 > Git is a free and open source distributed version control system designed 
@@ -107,9 +111,9 @@ In this repository I will write about the work with which I dealt and I will wri
 
    | Command | What is it mean? |
    | --- | --- |
-   | `git init` | create brand new repositories |
-   | `git clone` | copy existing repo from somewhere else to your local computer |
-   | `git status` | check the status of a repo |
+   | `git init` | Create brand new repositories |
+   | `git clone` | Copy existing repo from somewhere else to your local computer |
+   | `git status` | Check the status of a repo |
     
 - И самая главная деталь: ***всегда, слышишь, всегда*** используй команду `git status`.
 
@@ -119,18 +123,22 @@ In this repository I will write about the work with which I dealt and I will wri
 
    | Command | What is it mean? |
    | --- | --- |
-   | `git log` | displays information about the existing commits |
-   | `git show` | dislays information about just that one commit |
+   | `git log` | Displays information about the existing commits |
+   | `git show` | Dislays information about just that one commit |
 
 - В этом уроке было еще достаточно новой информации, но в этих блоках я напоминаю себе только про команды, не забываем об этом!
 
 ---
 
+#### Lesson 4:
 
+   | Command | What is it mean? |
+   | --- | --- |
+   | `git add` | Add files from the WD to the SI |
+   | `git commit` | Take files from the SI and save them in the repo |
+   | `git diff` | Displays the difference between two version of a file |
 
-
-
-
+---
 
 
 
