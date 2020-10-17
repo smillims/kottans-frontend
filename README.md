@@ -91,15 +91,15 @@ Let's break everything down:
 
   - Moreover this only a small part of version control system.
 
-- Дальше мне предстояла трудная пора для разжовывания терминологии, вот несколько пунктиков:
-  - Repository/repo: хранилище для хранения своих работ (файлов), а также несколько файлов, которые используются для связи с Git.
-  - A version control system (abbreviated as VCS) это инструмент с помощью которого можно управлять контролем версий.
-  - Branch - это создание новой ветки в твоем репозитории в которой ты можешь безопасно изменить нужный тебе файл не затрагивая при это основную ветку.
-    - Также ветки можно соединить, но об этом уже немного позже.
+ - Then I had a difficult time for exposition terminology, here are some points:
+   - Repository/repo: storage for storing your works (files), and few files, which are used for collaboration with Git.
+   - A version control system (abbreviated as VCS) this is tool with which you can manage version control.
+   - Branch - creation new branch for you repo in which you can safely change file that you need without touching a main branch.
+     - Also you can merge branches, but let's speek about it a little bit later.
     
-- Потом установка Git на Windows 7, ничего сложного, все окей.
+- After that installation Git on Windows, nothing complicated, everything okay.
 
-- Дальше на каждом уроке я изучал разные команды, так же в разные блоки буду их и сортировать.
+- Further, at every lesson I have learnt different commands, similiarly i will sort this commands in different blocks.
 
 ---
 
