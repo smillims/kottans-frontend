@@ -5,9 +5,9 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ## Notes
 
-- [X] *0. [Markdown](#)*
-- [ ] *1. [Git Basics](#)*
-   - [ ] *1.1 [Version Control with Git](#)*
+- [X] *0. [Markdown](#markdown)*
+- [ ] *1. [Git Basics](#git)*
+   - [ ] *1.1 [Version Control with Git](#version)*
    
 ## Markdown
 
