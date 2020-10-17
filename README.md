@@ -114,7 +114,7 @@ Let's break everything down:
    | `git clone` | Copy existing repo from somewhere else to your local computer |
    | `git status` | Check the status of a repo |
     
-- И самая главная деталь: ***всегда, слышишь, всегда*** используй команду `git status`.
+- And the most important detail: ***always, hear, always*** use command `git status`.
 
 ---
 
