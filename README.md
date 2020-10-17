@@ -179,34 +179,17 @@ Let's break everything down:
 ---
 ---
 
-***IN CONCLUSION***: Я очень рад, что прошел этот курс, я получил уйму знаний, которые ***100%*** буду использовать в будущем. Самым шоком для меня оказалася документация на английском языке. Английский я-то кое-как знаю, но вот практики уже не было-то и подавна. Сначала было трудно, не отрецаю, я даже с переводчим очень хорошо подружился за это время, но идя все дальше и дальше я с уверенностью могу сказать, что мне уже явно по-легче ориентироваться в этом языке. 
+***IN CONCLUSION***: I'm so glad that i finished this couse, I received a lot of knowledge, which ***100%*** will using in the future. I was shocked because of documentation on the English language I  know English quite well but was without practic so long time. It was difficult at start, don't deny, I even find friendship with my vocabulary book, but move ahead and ahead I can say with all confidence, that it is already clearly in english.
 
-Так, о самом курсе. Очень удивил Git со своим контролем управления версий, удивил тем, что можно работать сразу в нескольких ветках параллельно друг другу ничего случайно не изменив, тем, что можно, при желании, вернуться на нужный тебе commit. Это все очень интересно и я дальше буду изучать это.
-
-***IN CONCLUSION***: I'm so glad that i finished this couse, I received a lot of knowledge, which ***100%*** will using in the future. The most shock was documentation on english language. I know English enough, but had been without practic so long time. It was difficult at start, don't deny, I even find friendship with my translater, but move ahead and ahead I can say with all confidence, that it is already clearly in english.
-
-Yeah, about course. So surprised Git with itself Version Contol System, suprised, that you can work in moment in different branches parallel to each other nothing occasionally didn't change, surprised that you can coming back in needed for you commit in all time. It's all so interesting and I will be learning this (and using).
+Yeah, about course. So surprised Git with itself Version Contol System, suprised, that you can work in moment in different branches parallel to each other nothing occasionally didn't change, surprised that you can come back in needed for you commit in all time. Everything is so interesting and I will be learning this (and using).
 
 ---
 ---
 
-#### Словарь сокращений
+#### Dictionary of abbreviations
 
 _**WD** - Working Directory_
 
 _**SI** - Staging Index_
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
