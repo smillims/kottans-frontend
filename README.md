@@ -105,16 +105,15 @@ In this repository I will write about the work with which I dealt and I will wri
 
 #### Lesson 2: Create A Git Repo
 
+   | Command | What is it mean? |
+   | --- | --- |
+   | `git init` | create brand new repositories |
+   | `git clone` | copy existing repo from somewhere else to your local computer |
+   | `git status` | check the status of a repo |
+    
+- И самая главная деталь: ***всегда, слышишь, всегда*** используй команду `git status`.
 
-
-
-
-
-
-
-
-
-
+---
 
 
 
