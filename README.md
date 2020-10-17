@@ -158,6 +158,13 @@ Let's break everything down:
    | `git branch` | Allows multiple lines of development |
    | `git checkout` | Switch between different branches and tags | 
    | `git merge` | Combines changes on different branches |
+   
+   - The `git branch` command is used to:
+     - list all branch names in the repository
+     - create new branches
+     - delete branches
+     
+---
 
 #### Словарь сокращений
 
