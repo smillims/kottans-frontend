@@ -120,9 +120,9 @@ In this repository I will write about the work with which I dealt and I will wri
    | Command | What is it mean? |
    | --- | --- |
    | `git log` | Displays information about the existing commits |
-   | | img |
+   | ~~Показываю как выглядит терминал при вписании команды~~| ![img](img-readme/Screenshot_44.png) |
    | `git show` | Dislays information about just that one commit |
-   | Typically, a SHA is provided as a final argumen | img |
+   | Typically, a SHA is provided as a final argumen | ![img](img-readme/Screenshot_45.png) |
 
  - Когда мы испольльзуем команду `git log`, то консоль выводит нам всю имеющуюся информацию: про SHA, про автора, дату когда было внесено последнее изменение и сам commit. А        вдруг мы хотим увидеть только SHA and commit, вдруг нам надо воспроизвести все в одну линию? Для этого мы можем использовать ***flag***. Flag ипользуют для изменения функции    или видоотбражения, с помощью которой вписывают определенную команду к уже существующей команде.
 
@@ -132,7 +132,7 @@ In this repository I will write about the work with which I dealt and I will wri
    
 ---
 
-#### Lesson 4:
+#### Lesson 4: Add Commit To A Repo
 
    | Command | What is it mean? |
    | --- | --- |
@@ -140,15 +140,39 @@ In this repository I will write about the work with which I dealt and I will wri
    | `git commit` | Take files from the SI and save them in the repo |
    | `git diff` | Displays the difference between two version of a file |
 
+  - Чтобы не использовать `git add` отдельно к каждому файлу, есть более упрощенный способ. Period(.). Да, ты просто добавляешь `.` к `git add` (не забывая делать пробел между      этими командами). Правда буть осторожен, не добавь не тот файл в SI.
+   - Если уж получилась такая беда, то верни незаплонированно добавленный файл в WD, добавь в свой проект файл `.gitignore` и уже в этот файл добавь все лишнее (фотографии,         документы, шрифты, все с чем тебе не понадобится работать в терминале).
+   
+  - Ты сразу можешь написать commit в терминале используя flag `-m`, так у тебя получится команда `git commit -m "Justi commit, nothing more"`
+  - `git diff` command can be used to see changes that have been made but haven't been committed, yet.
+
 ---
 
+#### Lesson 5: Tagging, Branching, and Merging
 
+   | Command | What is it mean? |
+   | --- | --- |
+   | `git tag` | Add tags to specific commits |
+   | `git branch` | Allows multiple lines of development |
+   | `git checkout` | Switch between different branches and tags | 
+   | `git merge` | Combines changes on different branches |
 
 #### Словарь сокращений
 
 _**WD** - Working Directory_
 
 _**SI** - Staging Index_
+
+
+
+
+
+
+
+
+
+
+
 
 
 
