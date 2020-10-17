@@ -2,11 +2,11 @@
 In this repository I will write about the work with which I dealt and I will write reports on the lessons I have learned, so have fun (smile)
 ## Notes
 
-- [ ] *0. [Markdown](#)*
+- [X] *0. [Formatting](#)*
 - [ ] *1. [Git Basics](#)*
    - [ ] *1.1 [Version Control with Git](#)*
-
-## Markdown
+   
+## Formatting
 
    The first innovation that I have discovered for myself is that you need to use **markdown** formatting to edit text, and what's even funnier is that you need to style everything ***with your own hands***, without using pre-prepared buttons.
 
