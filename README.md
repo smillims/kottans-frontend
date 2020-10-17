@@ -73,10 +73,6 @@ In this repository I will write about the work with which I dealt and I will wri
 ## Git Basics
 ### Version Control with Git
 
-_**WD** - Working Directory_
-
-_**SI** - Staging Index_
-
 ----
 
 > Git is a free and open source distributed version control system designed 
@@ -146,6 +142,13 @@ _**SI** - Staging Index_
 
 ---
 
+
+
+#### Словарь сокращений
+
+_**WD** - Working Directory_
+
+_**SI** - Staging Index_
 
 
 
