@@ -6,6 +6,8 @@ In this repository I will write about the work with which I dealt and I will wri
 - [ ] *1. [Git Basics](#)*
    - [ ] *1.1 [Version Control with Git](#)*
    
+![img](img-readme/1_J8O2xd9ZqxWr2x6EP4MHmg.png)
+   
 ## Markdown
 
    The first innovation that I have discovered for myself is that you need to use **markdown** formatting to edit text, and what's even funnier is that you need to style everything ***with your own hands***, without using pre-prepared buttons.
