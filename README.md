@@ -141,13 +141,13 @@ Let's break everything down:
    | `git add` | Add files from the WD to the SI |
    | `git commit` | Take files from the SI and save them in the repo |
    | `git diff` | Displays the difference between two version of a file |
-
-  - Чтобы не использовать `git add` отдельно к каждому файлу, есть более упрощенный способ. Period(.). Да, ты просто добавляешь `.` к `git add` (не забывая делать пробел между      этими командами). Правда буть осторожен, не добавь не тот файл в SI.
-   - Если уж получилась такая беда, то верни незаплонированно добавленный файл в WD, добавь в свой проект файл `.gitignore` и уже в этот файл добавь все лишнее (фотографии,         документы, шрифты, все с чем тебе не понадобится работать в терминале).
    
-  - Ты сразу можешь написать commit в терминале используя flag `-m`, так у тебя получится команда `git commit -m "Justi commit, nothing more"`
+  - That not to use `git add` separately for each file, there is a more simplified way. Period(.). Yeah, you just add `.` to `git add` (not forgetting to make a space between      these commands). Trully be carefull, don't add wrong file to SI.
+   - If such situation happend, so return unplanned added file to WD, add to your project file `.gitignore` and add everything unnecessary to this file (photos, documents,           fonts, everithing you don't need to work with in terminal). 
+   
+  - You can write commit in terminal using flag `-m`, in this way you get command `git commit -m "Justi commit, nothing more"`.
   - `git diff` command can be used to see changes that have been made but haven't been committed, yet.
-
+  
 ---
 
 #### Lesson 5: Tagging, Branching, and Merging
