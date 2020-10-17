@@ -73,9 +73,9 @@ In this repository I will write about the work with which I dealt and I will wri
 ## Git Basics
 ### Version Control with Git
 
-> **WD** - Working Directory
->
-> **SI** - Staging Index
+_**WD** - Working Directory_
+
+_**SI** - Staging Index_
 
 ----
 
