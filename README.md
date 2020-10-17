@@ -85,11 +85,11 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
-Разложим все по пунктикам:
+Let's break everything down:
 
-- Как только я начал проходить курс и вообще узнал что такое система контроля версий - я сильно удивился. А именно с того, что эту систему я, да и почтый каждый пользователь       используем уже давно и даже не замечаем этого! О чем я говорю? Вкурсе о таком сочитании клавиш как `ctrl + z`? А вкурсе что делает это сочетание клавиш? Оно используется для     отмены последнего совершенного действия (например, удаления текста (думаю вы и так это знали)).
+- As soon as I have started lerning course and generelly found out what's version control system - I was very suprised. Exactly from that we use this system, I, and almost every   user use it for a long time and even didn't notice it. What I'm talking about? Do you know about this key combination as `ctrl + z`? Do you know what this key combination do?   It's used to undo the last action (for examle, to deletion text (i think you alredy knew it)).
 
-  - Причем это только малая часть контроля версий
+  - Moreover this only a small part of version control system.
 
 - Дальше мне предстояла трудная пора для разжовывания терминологии, вот несколько пунктиков:
   - Repository/repo: хранилище для хранения своих работ (файлов), а также несколько файлов, которые используются для связи с Git.
