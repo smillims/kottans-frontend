@@ -115,5 +115,25 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ---
 
+#### Lesson 3: Review a Repo's History
+
+   | Command | What is it mean? |
+   | --- | --- |
+   | `git log` | displays information about the existing commits |
+   | `git show` | dislays information about just that one commit |
+
+- В этом уроке было еще достаточно новой информации, но в этих блоках я напоминаю себе только про команды, не забываем об этом!
+
+---
+
+
+
+
+
+
+
+
+
+
 
 
