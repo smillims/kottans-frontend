@@ -81,7 +81,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ----
 
-***Мои ожидания от [курса по git](https://classroom.udacity.com/courses/ud123)***: я не знал чего ожидать, потому до этого даже понятия не имел что такое git и что он из себя представляет (да простит меня Марк Цукерберг).
+***My expectations [course about Git](https://classroom.udacity.com/courses/ud123)***: I didn't know what to expact, besause before that I had no idea what is Git and what is he like (forgive me Mark Zuckerberg).
 
 ---
 
