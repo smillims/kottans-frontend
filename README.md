@@ -124,10 +124,16 @@ In this repository I will write about the work with which I dealt and I will wri
    | Command | What is it mean? |
    | --- | --- |
    | `git log` | Displays information about the existing commits |
+   | | img |
    | `git show` | Dislays information about just that one commit |
+   | Typically, a SHA is provided as a final argumen | img |
 
-- В этом уроке было еще достаточно новой информации, но в этих блоках я напоминаю себе только про команды, не забываем об этом!
+ - Когда мы испольльзуем команду `git log`, то консоль выводит нам всю имеющуюся информацию: про SHA, про автора, дату когда было внесено последнее изменение и сам commit. А        вдруг мы хотим увидеть только SHA and commit, вдруг нам надо воспроизвести все в одну линию? Для этого мы можем использовать ***flag***. Flag ипользуют для изменения функции    или видоотбражения, с помощью которой вписывают определенную команду к уже существующей команде.
 
+   - К примеру, `git log --oneline` displayed just the short SHA and the commit message in one line.
+   - The `git log` command has a flag that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted.     The flag is `--stat`.
+   - `git log` имеет еще одну команду, которая показывает **в каком ___именно___ месте** была произведина измена файла. И это команда имеет название `--patch`, но никто не хочет     постоянно писать `--patch`, поэтому *бараманная дробь* можете использовать эту команду так - `git log -p`.
+   
 ---
 
 #### Lesson 4:
