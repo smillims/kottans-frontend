@@ -1,12 +1,13 @@
 # kottans-frontend
 In this repository I will write about the work with which I dealt and I will write reports on the lessons I have learned, so have fun (smile)
+
+![img](img-readme/1_J8O2xd9ZqxWr2x6EP4MHmg.png)
+
 ## Notes
 
 - [X] *0. [Markdown](#)*
 - [ ] *1. [Git Basics](#)*
    - [ ] *1.1 [Version Control with Git](#)*
-   
-![img](img-readme/1_J8O2xd9ZqxWr2x6EP4MHmg.png)
    
 ## Markdown
 
