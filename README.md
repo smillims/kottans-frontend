@@ -76,6 +76,8 @@ In this repository I will write about the work with which I dealt and I will wri
 ## Git Basics
 ### Version Control with Git
 
+![img](git_basics/VCS.png)
+
 ----
 
 > Git is a free and open source distributed version control system designed 
