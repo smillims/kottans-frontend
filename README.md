@@ -9,6 +9,7 @@ In this repository I will write about the work with which I dealt and I will wri
 - [ ] *1. [Git Basics](#git)*
    - [X] *1.1 [Version Control with Git](#version)*
    - [X] *1.2 [learngitbranching.js.org](#learngit)*
+- [X] *2. [Linux CLI and Networking](#linux)*
    
 ## Markdown
 
