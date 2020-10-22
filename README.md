@@ -221,7 +221,7 @@ Okay, I did it against. I finished one more course and I so proud for myself. I 
 
 But, forgetly all words above, It looks a bit like Git, I found similar commands. In all, I would be learn about Linux in future and maybe and install myself as an operating system.
 
-P.s. 
+P.s. Why did I stop writing about my study? Why did I stop making tables, inserting screenshots from courses to show what this or that program does? It takes so much time and I don't have time to study. Therefore, of two things I had to choose the one that I want to spend more time to, and that is study!
 
 
 
