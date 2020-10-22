@@ -203,15 +203,17 @@ _**SI** - Staging Index_
 
 ![img](git_basics/Screenshot_49.png)
 
+---
+
 In this couse, I against (like always) have shocked by English? What, English? Allright, because now it was harder maybe in three times, really. But I didn't despair and go ahead to my target! So, right in these course I did't find so many command like in last times, but anyway it was (I about new command). 
 
 For exapmle, i understood the remote repo much better, so good that in these course they are used a demo for demonstrate how it's work.
 
 Anyway, I will be going to use Git in future project, so let's move on.
 
+---
 
-
-
+## Linux CLI, and HTTP
 
 
 
