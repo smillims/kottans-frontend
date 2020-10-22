@@ -231,6 +231,12 @@ For exapmle, i understood the remote repo much better then in previous time, so 
 Anyway, I will be going to use Git in future project, so let's move on.
 
 ---
+---
+
+***IN CONCLUSION***: learn new commands, found a new experience in using Git!!!
+
+---
+---
 
 ## Linux CLI, and HTTP
 
@@ -240,7 +246,17 @@ Okay, I did it against. I finished one more course and I so proud for myself. I 
 
 But, forgetly all words above, It looks a bit like Git, I found similar commands. In all, I would be learn about Linux in future and maybe and install myself as an operating system.
 
+---
+---
+
+***IN CONCLUSION***: I learnt new operating system. Wow. Okay, just started learning, but that's one small step for programming, one giant leap for me.
+
+---
+---
+
 P.s. Why did I stop writing about my study? Why did I stop making tables, inserting screenshots from courses to show what this or that program does? It takes so much time and I don't have time to study. Therefore, of two things I had to choose the one that I want to spend more time to, and that is study!
+
+---
 
 
 
