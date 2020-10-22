@@ -205,9 +205,9 @@ _**SI** - Staging Index_
 
 ---
 
-In this couse, I against (like always) have shocked by English? What, English? Allright, because now it was harder maybe in three times, really. But I didn't despair and go ahead to my target! So, right in these course I did't find so many command like in last times, but anyway it was (I about new command). 
+In this couse, I against (like always) have shocked by English? What, English? Allright, because now it was harder maybe in three times, really. But I didn't despair and go ahead to my target! So, right in these course I did't find so many commands like in last times, but anyway it was (I am talking about new commands). 
 
-For exapmle, i understood the remote repo much better, so good that in these course they are used a demo for demonstrate how it's work.
+For exapmle, i understood the remote repo much better then in previous time, so good that in these course they are used a demo for demonstrate how it's work.
 
 Anyway, I will be going to use Git in future project, so let's move on.
 
@@ -215,12 +215,13 @@ Anyway, I will be going to use Git in future project, so let's move on.
 
 ## Linux CLI, and HTTP
 
+![gif](task_linux_cli/linux.gif)
 
+Okay, I did it against. I finished one more course and I so proud for myself. I learnt what Linux is made of and what it is. It's not like Windows, not even close. It's like... something different, which I didn't see before, something new (of course for me, because I'm using Windows).
 
+But, forgetly all words above, It looks a bit like Git, I found similar commands. In all, I would be learn about Linux in future and maybe and install myself as an operating system.
 
-
-
-
+P.s. 
 
 
 
