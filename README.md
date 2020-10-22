@@ -5,11 +5,29 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ## Notes
 
+---
+### General
+---
+
 - [X] *0. [Markdown](#markdown)*
 - [ ] *1. [Git Basics](#git)*
    - [X] *1.1 [Version Control with Git](#version)*
    - [X] *1.2 [learngitbranching.js.org](#learngit)*
 - [X] *2. [Linux CLI and Networking](#linux)*
+- [ ] *3. [VCS (hello gitty), GitHub and Collaboration](#github)*
+
+---
+### Front-End Basics
+---
+
+- [ ] *4. [Intro to HTML & CSS](#markdown)*
+- [ ] *5. [Responsive Web Design](#markdown)*
+- [ ] *6. [HTML & CSS Practice](#markdown)*
+- [ ] *7. [JavaScript Basics](#markdown)*
+- [ ] *8. [Document Object Model](#markdown) - practice*
+
+---
+---
    
 ## Markdown
 
