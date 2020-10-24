@@ -291,7 +291,7 @@ What I have learnt from this course?
 
 ![img](task_git_collaboration/Screenshot_49.png)
 
-Nothing have to add, I competed this task couple days ago.
+I have nothing to add, completed this task couple days ago.
 
 ---
 ---
