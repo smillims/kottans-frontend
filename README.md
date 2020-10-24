@@ -14,7 +14,7 @@ In this repository I will write about the work with which I dealt and I will wri
    - [X] *1.1 [Version Control with Git](#version)*
    - [X] *1.2 [learngitbranching.js.org](#learngit)*
 - [X] *2. [Linux CLI and Networking](#linux)*
-- [ ] *3. [VCS (hello gitty), GitHub and Collaboration](#github)*
+- [X] *3. [VCS (hello gitty), GitHub and Collaboration](#github)*
 
 ---
 ### Front-End Basics
@@ -106,7 +106,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 ----
 
-***My expectations [course about Git](https://classroom.udacity.com/courses/ud123)***: I didn't know what to expact, besause before that I had no idea what is Git and what is he like (forgive me Mark Zuckerberg).
+***My expectations from [course about Git](https://classroom.udacity.com/courses/ud123)***: I didn't know what to expact, besause before that I had no idea what is Git and what is he like (forgive me Mark Zuckerberg).
 
 ---
 
@@ -261,6 +261,46 @@ P.s. Why did I stop writing about my study? Why did I stop making tables, insert
 ## Git Collaboration
 
 ![img](task_git_collaboration/Screenshot_71.png)
+
+Oh, hello! I have already finished one more course about Git.
+
+***My expectations from [course about Git](https://classroom.udacity.com/courses/ud123)***(*against*): I wanted to learn how to work on remote repo, (*spoiler*) I have got it.
+What I have learnt from this course?
+1. Working with remote repo.
+   - Now I knew how to create a remote repo - `git remote`.
+   - How to work correctly with GitHub.
+   - How to connect remote repo with local - `git remote add origin http://...`.
+   - `git push` - push local repo to remote.
+   - `git pull` - get commit from remote repo to local.
+   - `git fetch` - get commit from remote repo to local and don't merge.
+2. Working on another developer's repo.
+   - Fork in GitHub isn't noun - it's a verb.
+   - Git haven't command git fork, so do fork in GitHub.
+   - `git log --author=Surma` find commit from author Surma using `git log using flag --author`.
+   - Discover how many comments left author - `git shortlog -s -n`.
+   - Find commit using keyword - `git log --grep=keyword`.
+   - Discover what I must to do before doing pull request.
+3. Staying in sync with a remote repo.
+   - How to create pull request.
+   - Manage an active PR.
+   - Squash commits with command `git rebase`.
+
+---
+---
+
+***IN CONCLUSION***: Okay, it's all with Git. Of course I will use all this recommandations and will using all commands from this big course.
+
+---
+---
+
+#### Dictionary of abbreviations
+
+_**PL** - pull request._
+
+---
+
+
+
 
 
 
