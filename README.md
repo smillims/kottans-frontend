@@ -284,6 +284,14 @@ What I have learnt from this course?
    - How to create pull request.
    - Manage an active PR.
    - Squash commits with command `git rebase`.
+   
+---
+
+![img](task_git_collaboration/Screenshot_48.png)
+
+![img](task_git_collaboration/Screenshot_49.png)
+
+Nothing have to add, I competed this task couple days ago.
 
 ---
 ---
