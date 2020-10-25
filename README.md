@@ -315,13 +315,19 @@ _**PL** - pull request._
 
 Be good, that I repeated part of command and tools from html and css.
 
+---
 
+![gif](task_html_css_intro/learn_html_css.gif)
 
+***My expectations from [course "Learn HTML(Eng)"](https://www.codecademy.com/learn/learn-html) and [course "Learn CSS(Eng)"](https://www.codecademy.com/learn/learn-css)***: I didn't wait something new for me, because I already did some website and know how to use html and css.
 
+---
+---
 
+***IN CONCLUSION***: Against, all from this course I knew early, so now it was repeated and practice all my knowledge.
 
-
-
+---
+---
 
 
 
