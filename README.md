@@ -324,7 +324,7 @@ Be good, that I repeated part of command and tools from html and css.
 ---
 ---
 
-***IN CONCLUSION***: Against, everything from this course I have learn before, so now it was repeated and practiced all my knowledges.
+***IN CONCLUSION***: Once again, I knew everything from these courses before, so now it was just  practice of all my knowledges
 
 ---
 ---
