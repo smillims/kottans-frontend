@@ -20,7 +20,7 @@ In this repository I will write about the work with which I dealt and I will wri
 ### Front-End Basics
 ---
 
-- [ ] *4. [Intro to HTML & CSS](#markdown)*
+- [X] *4. [Intro to HTML & CSS](#markdown)*
 - [ ] *5. [Responsive Web Design](#markdown)*
 - [ ] *6. [HTML & CSS Practice](#markdown)*
 - [ ] *7. [JavaScript Basics](#markdown)*
