@@ -311,7 +311,7 @@ _**PL** - pull request._
 
 ![img](task_html_css_intro/Screenshot_72.png)
 
-***My expectations from [course "Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have nothing expactations, because I knew its material before started this course.
+***[My expectations from course "Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have no expactations, because I already had known this material before started this course.
 
 Be good, that I repeated part of command and tools from html and css.
 
@@ -319,12 +319,12 @@ Be good, that I repeated part of command and tools from html and css.
 
 ![gif](task_html_css_intro/learn_html_css.gif)
 
-***My expectations from [course "Learn HTML(Eng)"](https://www.codecademy.com/learn/learn-html) and [course "Learn CSS(Eng)"](https://www.codecademy.com/learn/learn-css)***: I didn't wait something new for me, because I already did some website and know how to use html and css.
+***[My expectations from course "Learn HTML(Eng)" and course "Learn CSS(Eng)"](https://www.codecademy.com/learn/learn-css)***: I didn't wait something new for me, because I already did some websites and know how to use html and css.
 
 ---
 ---
 
-***IN CONCLUSION***: Against, all from this course I knew early, so now it was repeated and practice all my knowledge.
+***IN CONCLUSION***: Against, everything from this course I have learn before, so now it was repeated and practiced all my knowledges.
 
 ---
 ---
