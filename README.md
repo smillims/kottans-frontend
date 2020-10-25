@@ -307,7 +307,13 @@ _**PL** - pull request._
 
 ---
 
+## Intro to HTML and CSS
 
+![img](task_html_css_intro/Screenshot_72.png)
+
+***My expectations from [course "Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have nothing expactations, because I knew its material before started this course.
+
+Be good, that I repead part of command and tools from html and css.
 
 
 
