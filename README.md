@@ -311,7 +311,7 @@ _**PL** - pull request._
 
 ![img](task_html_css_intro/Screenshot_72.png)
 
-***My expectations from course ["Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have no expactations, because I already had known this material before started this course.
+***My expectations from [course "Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have no expactations, because I already had known this material before started this course.
 
 Be good, that I repeated part of command and tools from html and css.
 
@@ -334,17 +334,19 @@ Be good, that I repeated part of command and tools from html and css.
 ![img](task_responsive_web_design/Screenshot_78.png)
 
 
-***My expectations from [course "Responsive Web Design Fundamentals"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)***: I wanted understand responsive web design and this course gave me a boost for start do this.
+***My expectations from [course "Responsive Web Design Fundamentals"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)***: I wanted understood responsive web design and this course gave me a boost for start to do it.
 
 ---
 
+![img](task_responsive_web_design/Screenshot_78.png)
 
+***My expectations from [game "Flexbox Froggy"](http://flexboxfroggy.com/#ru)***: I have already deal with this game.
+---
+---
 
+***IN CONCLUSION***: Generally, I knew some things before starting this course, like 
+``<meta name="viewport" content="width=device-width, initial-scale=1.0">`` or media queries, but in this course I improved my knowledges. What about the game "flexbox froggy"? I have already completed this game in the past, so against - nothing new.
 
-
-***IN CONCLUSION***: In all, I knew some things before starting this course, like 
-``<meta name="viewport" content="width=device-width, initial-scale=1.0">`` or media queries, but in this course I improved my knowledge. What about game about froggy? In the past I completed this game, so against nothing new.
-
-
-
+---
+---
 
