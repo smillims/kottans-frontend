@@ -329,7 +329,20 @@ Be good, that I repeated part of command and tools from html and css.
 ---
 ---
 
+## Responsive Web Design
 
+![img](task_responsive_web_design/Screenshot_78.png)
+
+
+***[My expectations from course "Responsive Web Design Fundamentals"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)***: I wanted understand responsive web design and this course gave me a boost for start do this.
+
+---
+
+
+
+
+
+***IN CONCLUSION***: In all, I knew some things before starting this course, like ``<meta name="viewport" content="width=device-width, initial-scale=1.0">`` or media queries, but in this course I improved my knowledge. What about game about froggy? In the past I completed this game, so against nothing new.
 
 
 
