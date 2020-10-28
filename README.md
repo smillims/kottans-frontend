@@ -311,7 +311,7 @@ _**PL** - pull request._
 
 ![img](task_html_css_intro/Screenshot_72.png)
 
-***[My expectations from course "Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have no expactations, because I already had known this material before started this course.
+***My expectations from course ["Intro to HTML & CSS (Eng)"](https://classroom.udacity.com/courses/ud001)***: I have no expactations, because I already had known this material before started this course.
 
 Be good, that I repeated part of command and tools from html and css.
 
@@ -319,7 +319,7 @@ Be good, that I repeated part of command and tools from html and css.
 
 ![gif](task_html_css_intro/learn_html_css.gif)
 
-***[My expectations from course "Learn HTML(Eng)" and course "Learn CSS(Eng)"](https://www.codecademy.com/learn/learn-css)***: I didn't wait something new for me, because I already did some websites and know how to use html and css.
+***My expectations from [course "Learn HTML(Eng)"](https://www.codecademy.com/learn/learn-html) and [course "Learn CSS(Eng)"](https://www.codecademy.com/learn/learn-css)***: I didn't wait something new for me, because I already did some websites and know how to use html and css.
 
 ---
 ---
@@ -334,7 +334,7 @@ Be good, that I repeated part of command and tools from html and css.
 ![img](task_responsive_web_design/Screenshot_78.png)
 
 
-***[My expectations from course "Responsive Web Design Fundamentals"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)***: I wanted understand responsive web design and this course gave me a boost for start do this.
+***My expectations from [course "Responsive Web Design Fundamentals"](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)***: I wanted understand responsive web design and this course gave me a boost for start do this.
 
 ---
 
@@ -342,7 +342,8 @@ Be good, that I repeated part of command and tools from html and css.
 
 
 
-***IN CONCLUSION***: In all, I knew some things before starting this course, like ``<meta name="viewport" content="width=device-width, initial-scale=1.0">`` or media queries, but in this course I improved my knowledge. What about game about froggy? In the past I completed this game, so against nothing new.
+***IN CONCLUSION***: In all, I knew some things before starting this course, like 
+``<meta name="viewport" content="width=device-width, initial-scale=1.0">`` or media queries, but in this course I improved my knowledge. What about game about froggy? In the past I completed this game, so against nothing new.
 
 
 
