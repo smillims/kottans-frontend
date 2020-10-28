@@ -21,7 +21,7 @@ In this repository I will write about the work with which I dealt and I will wri
 ---
 
 - [X] *4. [Intro to HTML & CSS](#markdown)*
-- [ ] *5. [Responsive Web Design](#markdown)*
+- [X] *5. [Responsive Web Design](#markdown)*
 - [ ] *6. [HTML & CSS Practice](#markdown)*
 - [ ] *7. [JavaScript Basics](#markdown)*
 - [ ] *8. [Document Object Model](#markdown) - practice*
@@ -341,6 +341,7 @@ Be good, that I repeated part of command and tools from html and css.
 ![img](task_responsive_web_design/Screenshot_78.png)
 
 ***My expectations from [game "Flexbox Froggy"](http://flexboxfroggy.com/#ru)***: I have already deal with this game.
+
 ---
 ---
 
