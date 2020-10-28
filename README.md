@@ -338,7 +338,7 @@ Be good, that I repeated part of command and tools from html and css.
 
 ---
 
-![img](task_responsive_web_design/Screenshot_78.png)
+![img](task_responsive_web_design/Screenshot_80.png)
 
 ***My expectations from [game "Flexbox Froggy"](http://flexboxfroggy.com/#ru)***: I have already deal with this game.
 
