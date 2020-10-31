@@ -351,3 +351,28 @@ Be good, that I repeated part of command and tools from html and css.
 ---
 ---
 
+## HTML/CSS-practice
+
+<a href="https://smillims.github.io/html-css-popup/"><img src="task_html_css_practice/Screenshot_79.png" alt="Screenshot" style="cursor: pointer;"></a>
+
+*Click above to open website*
+
+***My expectations from HTML/CSS-practice***: Oh, it should be... hard.
+
+And yeah, it was a little hard :grin:
+
+---
+
+**What was the most hardest for me?**
+
+1. I can't understood how to open menu without JavaScript. Yeah, for whole first day I had just add background-image, wrote navbar in html, stylized it in css and thinked how to open menu with html helping. Tried to find the answer but almost everywhere was written somethink like "In JavaScript ...".
+
+2. So the next day I have still searching answer. But in this time luck turned back to me. So I used combination something like `click here ~ open here`. After that, I have finished navbar, I have complited the rest part of my work.
+
+---
+---
+
+***IN CONCLUSION***: Now, I understand more how to interact with html coding.
+
+---
+---
