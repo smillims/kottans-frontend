@@ -353,7 +353,7 @@ Be good, that I repeated part of command and tools from html and css.
 
 ## HTML/CSS-practice
 
-<a href="https://smillims.github.io/html-css-popup/"><img src="task_html_css_practice/Screenshot_79.png" alt="Screenshot" style="cursor: pointer;"></a>
+<a href="https://smillims.github.io/html-css-popup/"><img src="task_html_css_practice/Screenshot_79.png" target="_blank" alt="Screenshot" style="cursor: pointer;"></a>
 
 *Click above to open website*
 
