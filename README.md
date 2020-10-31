@@ -20,11 +20,23 @@ In this repository I will write about the work with which I dealt and I will wri
 ### Front-End Basics
 ---
 
-- [X] *4. [Intro to HTML & CSS](#markdown)*
-- [X] *5. [Responsive Web Design](#markdown)*
-- [ ] *6. [HTML & CSS Practice](#markdown)*
-- [ ] *7. [JavaScript Basics](#markdown)*
-- [ ] *8. [Document Object Model](#markdown) - practice*
+- [X] *4. [Intro to HTML & CSS](#intro_html_css)*
+- [X] *5. [Responsive Web Design](#responsive)*
+- [ ] *6. [HTML & CSS Practice](#html_css_practice)*
+- [ ] *7. [JavaScript Basics](#js_basics)*
+- [ ] *8. [Document Object Model](#dom) - practice*
+
+---
+### Advanced Topics
+---
+
+- [ ] *9. [Building a Tiny JS World (pre-OOP)](#js_world) - practice*
+- [ ] *10. [Object oriented JS](#object_js) - practice*
+- [ ] *11. [OOP exercise](#oop) - practice*
+- [ ] *12. [Offline Web Applications](#web_applications)*
+- [ ] *13. [Memory pair game](#memory_game) - real project!*
+- [ ] *14. [Website Performance Optimization](#website_optimization)*
+- [ ] *15. [Friends App](#friends_app) - real project!*
 
 ---
 ---
