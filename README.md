@@ -22,7 +22,7 @@ In this repository I will write about the work with which I dealt and I will wri
 
 - [X] *4. [Intro to HTML & CSS](#intro_html_css)*
 - [X] *5. [Responsive Web Design](#responsive)*
-- [ ] *6. [HTML & CSS Practice](#html_css_practice)*
+- [X] *6. [HTML & CSS Practice](#html_css_practice)*
 - [ ] *7. [JavaScript Basics](#js_basics)*
 - [ ] *8. [Document Object Model](#dom) - practice*
 
