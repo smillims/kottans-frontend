@@ -388,3 +388,74 @@ And yeah, it was a little hard :grin:
 
 ---
 ---
+
+## JS Basics
+
+> Don't worry if something doesn't work. If everything worked, you would be fired.
+
+<img src="task_js_basics/Screenshot_87.png">
+
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud803">Intro to JS</a>***: I thought that it was something realy new and exciting, because I wanted to start learn JavaScript many times, but thought that firstly must learn HTML & CSS better. + It's my first programm language which I'm going to learn, uhu!!
+
+---
+
+Everything was started from `console.log("hiya friend!");` and and by
+```
+Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
+
+function convertHTML(str) {
+  // Use Object Lookup to declare as many HTML entities as needed.
+  const htmlEntities = {
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&apos;"
+  };
+  // Using a regex, replace characters with it's corresponding html entity
+  return str.replace(/([&<>\"'])/g, match => htmlEntities[match]);
+}
+
+// test here
+convertHTML("Dolce & Gabbana");
+```
+but about it later.
+
+Main part from this course told me about <b>Data Types</b> and how to make a deal with them.
+
+There are 8 basic data types in JavaScript:
+
+- `number` for numbers of any kind: integer or floating-point, integers are limited by ±(253-1).
+- `bigint` is for integer numbers of arbitrary length.
+- `string` for strings. A string may have zero or more characters, there’s no separate single-character type.
+- `boolea`n for true/false.
+- `null` for unknown values – a standalone type that has a single value null.
+- `undefined` for unassigned values – a standalone type that has a single value undefined.
+- `object` for more complex data structures.
+- `symbol` for unique identifiers.
+
+---
+---
+
+<img src="task_js_basics/Screenshot_102.png">
+
+***My expectations from <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> exercises***: Must be a lot of practice and a lot of difficulties.
+
+---
+
+From this course I have known about:
+
+1. Basic JavaScript language features;
+2. JS ES6 features;
+3. How manipulate arrays and objects;
+4. Basic algorithms;
+
+And solve a few execise for to assimilate the theory.
+
+---
+---
+
+***IN CONCLUSION***: It was so hard, now I know how to collaborate with JavaScript, how to write a function, how to interact with arrays/objects without mutation and many-many other I have learned with helping this task.
+
+---
+---
