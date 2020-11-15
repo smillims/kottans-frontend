@@ -23,7 +23,7 @@ In this repository I will write about the work with which I dealt and I will wri
 - [X] *4. [Intro to HTML & CSS](#intro_html_css)*
 - [X] *5. [Responsive Web Design](#responsive)*
 - [X] *6. [HTML & CSS Practice](#html_css_practice)*
-- [ ] *7. [JavaScript Basics](#js_basics)*
+- [X] *7. [JavaScript Basics](#js_basics)*
 - [ ] *8. [Document Object Model](#dom) - practice*
 
 ---
@@ -399,7 +399,7 @@ And yeah, it was a little hard :grin:
 
 ---
 
-Everything was started from `console.log("hiya friend!");` and and by
+Everything was started from `console.log("hiya friend!");` and ended by
 ```
 Convert the characters &, <, >, " (double quote), and ' (apostrophe), in a string to their corresponding HTML entities.
 
