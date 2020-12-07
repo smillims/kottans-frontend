@@ -462,13 +462,13 @@ And solve a few execise for to assimilate the theory.
 
 ## DOM
 
-<a href="https://smillims.github.io/dom/">DEMO</a>
+<a href="https://smillims.github.io/dom/" target="_blank">DEMO</a>
 
 ---
 
 <img src="task_js_dom/udacity-dom.png">
 
-***My expectations from course <a href="https://classroom.udacity.com/courses/ud117" target="_blank">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
 
 ---
 
