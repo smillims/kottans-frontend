@@ -24,7 +24,7 @@ In this repository I will write about the work with which I dealt and I will wri
 - [X] *5. [Responsive Web Design](#responsive)*
 - [X] *6. [HTML & CSS Practice](#html_css_practice)*
 - [X] *7. [JavaScript Basics](#js_basics)*
-- [ ] *8. [Document Object Model](#dom) - practice*
+- [X] *8. [Document Object Model](#dom) - practice*
 
 ---
 ### Advanced Topics
@@ -468,7 +468,7 @@ And solve a few execise for to assimilate the theory.
 
 <img src="task_js_dom/udacity-dom.png">
 
-***My expectations from course <a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud117" target="_blank">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
 
 ---
 
