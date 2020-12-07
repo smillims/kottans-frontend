@@ -468,7 +468,7 @@ And solve a few execise for to assimilate the theory.
 
 <img src="task_js_dom/udacity-dom.png">
 
-***My expectations from course <a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a>***: I thought that it will be more easely, but in real I have trouble with this task when did practice.
 
 ---
 
