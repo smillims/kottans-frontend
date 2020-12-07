@@ -459,3 +459,48 @@ And solve a few execise for to assimilate the theory.
 
 ---
 ---
+
+## DOM
+
+<a href="https://smillims.github.io/dom/">DEMO</a>
+
+---
+
+<img src="task_js_dom/udacity-dom.png">
+
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud117">JavaScript and the DOM</a>***: I thinked that it will be more easely, but in real I have trouble with this task when did practice.
+
+---
+
+First problem was with "how the DOM is constructed". So, Dom is constucted like:
+```
+Characters
+ -
+Tokens
+ -
+Nodes
+ -
+Dom
+```
+
+Second problem was with Interface. I can't understand for what it need and how making a difference between it. But it possible find how deal with it. Our main intefrace:
+`Event Target - Node - Element`
+
+One really important thing about the Element Interface is that it is a descendent of the Node Interface, but Node in his turn descendent from Event Target.
+
+In next sections I was okay with all properties so let's go ahead.
+
+---
+---
+
+<img src="task_js_dom/freecode-dom.png">
+
+***My expectations from course <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/">Algorithm Scripting Challenges on freecodecamp</a>***: Like always: "It should be hard".
+
+---
+---
+
+***IN CONCLUSION***: It's block was really hard for me. Now I understand how to use DOM (thanks for my mentors, who helped me, I am very grateful for it). It was my first project when I use JavaScript and this is so happy news for me ^^.
+
+---
+---
