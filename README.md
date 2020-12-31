@@ -369,6 +369,8 @@ Be good, that I repeated part of command and tools from html and css.
 
 *Click above to open website*
 
+---
+
 ***My expectations from HTML/CSS-practice***: Oh, it should be... hard.
 
 And yeah, it was a little hard :grin:
@@ -511,8 +513,9 @@ In next sections I was okay with all properties so let's go ahead.
 
 *Click above to open website*
 
-***My expectations from course <a href="https://github.com/OleksiyRudenko/a-tiny-JS-world">Building a Tiny JS World</a>***: From this task I expected new knowledge about basics OOP.
+---
 
+***My expectations from task <a href="https://github.com/OleksiyRudenko/a-tiny-JS-world">Building a Tiny JS World</a>***: From this task I expected new knowledge about basics OOP.
 
 ---
 
@@ -522,6 +525,28 @@ Firstly for this task I used `Object.values()` method for output my data. As it 
 ---
 
 ***IN CONCLUSION***: From this task I was learned how to use basics OOP, how to follow for order of keys/values, for what need `Object` and for what need `Array` objects. 
+
+---
+---
+
+## Object oriented JS
+
+<a href="https://smillims.github.io/frontend-nanodegree-arcade-game/"><img src="task_js_oop/Screenshot_45.png" alt="OOP_Screenshot" style="cursor: pointer;"></a>
+
+*Click above to open website*
+
+---
+
+***My expectations from course <a href="https://classroom.udacity.com/courses/ud015">Object-Oriented JavaScript</a>***: I expected for improving my knowledge about OOP (because I already have deal with basics OOP).
+
+---
+
+Course about OOP on Udacity caused problems with understanding the material, so after I had to read extra material which located under this task. After it I realized that would be have troubles with practical task 'Frogger Game', but mentor which checked my work help me a lot. In the end I did it ^^.
+
+---
+---
+
+***IN CONCLUSION***: In the end I understand how to have deal with prototypes and with many other little things.
 
 ---
 ---
