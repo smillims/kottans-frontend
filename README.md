@@ -365,7 +365,7 @@ Be good, that I repeated part of command and tools from html and css.
 
 ## HTML/CSS-practice
 
-<a href="https://smillims.github.io/html-css-popup/" target="_blank"><img src="task_html_css_practice/Screenshot_79.png" alt="Screenshot" style="cursor: pointer;"></a>
+<a href="https://smillims.github.io/html-css-popup/" target="_blank"><img src="task_html_css_practice/Screenshot_79.png" alt="HTML_&_CSS_Screenshot" style="cursor: pointer;"></a>
 
 *Click above to open website*
 
@@ -393,7 +393,7 @@ And yeah, it was a little hard :grin:
 
 > Don't worry if something doesn't work. If everything worked, you would be fired.
 
-<img src="task_js_basics/Screenshot_87.png">
+<img src="task_js_basics/Screenshot_87.png" alt="Udacity_Screenshot">
 
 ***My expectations from course <a href="https://classroom.udacity.com/courses/ud803">Intro to JS</a>***: I thought that it was something realy new and exciting, because I wanted to start learn JavaScript many times, but thought that firstly must learn HTML & CSS better. + It's my first programm language which I'm going to learn, uhu!!
 
@@ -437,7 +437,7 @@ There are 8 basic data types in JavaScript:
 ---
 ---
 
-<img src="task_js_basics/Screenshot_102.png">
+<img src="task_js_basics/Screenshot_102.png" alt="Freecodecamp_Screenshot">
 
 ***My expectations from <a href="https://www.freecodecamp.org/learn">FreeCodeCamp</a> exercises***: Must be a lot of practice and a lot of difficulties.
 
@@ -462,7 +462,7 @@ And solve a few execise for to assimilate the theory.
 
 ## DOM
 
-<a href="https://smillims.github.io/dom/" target="_blank">DEMO</a>
+<a href="https://smillims.github.io/dom/" target="_blank" alt="DOM_Task_Screenshot">DEMO</a>
 
 ---
 
@@ -501,6 +501,27 @@ In next sections I was okay with all properties so let's go ahead.
 ---
 
 ***IN CONCLUSION***: It's block was really hard for me. Now I understand how to use DOM (thanks for my mentors, who helped me, I am very grateful for it). It was my first project when I use JavaScript and this is so happy news for me ^^.
+
+---
+---
+
+## Tiny JS World
+
+<a href="https://smillims.github.io/a-tiny-JS-world/" target="_blank"><img src="task_tiny_js_world/Screenshot_44.png" alt="Tiny_JS_Screenshot" style="cursor: pointer;"></a>
+
+*Click above to open website*
+
+***My expectations from course <a href="https://github.com/OleksiyRudenko/a-tiny-JS-world">Building a Tiny JS World</a>***: From this task I expected new knowledge about basics OOP.
+
+
+---
+
+Firstly for this task I used `Object.values()` method for output my data. As it turned out it was not best way. Why? Because Object method do not guarantee any particular order of keys/values. So I needed to rewrite my code with another principles. Mentor told me that I need to use Array in this order for particular of keys/values. So in this case I rewrite my code using methods `map` and `filter`.
+
+---
+---
+
+***IN CONCLUSION***: From this task I was learned how to use basics OOP, how to follow for order of keys/values, for what need `Object` and for what need `Array` objects. 
 
 ---
 ---
