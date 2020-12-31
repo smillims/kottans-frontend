@@ -30,8 +30,8 @@ In this repository I will write about the work with which I dealt and I will wri
 ### Advanced Topics
 ---
 
-- [ ] *9. [Building a Tiny JS World (pre-OOP)](#js_world) - practice*
-- [ ] *10. [Object oriented JS](#object_js) - practice*
+- [X] *9. [Building a Tiny JS World (pre-OOP)](#js_world) - practice*
+- [X] *10. [Object oriented JS](#object_js) - practice*
 - [ ] *11. [OOP exercise](#oop) - practice*
 - [ ] *12. [Offline Web Applications](#web_applications)*
 - [ ] *13. [Memory pair game](#memory_game) - real project!*
